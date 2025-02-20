@@ -1,2 +1,3 @@
 # WarCardsGame
-This is a project about the cards game called "War" that approximates the time and rounds it takes to end
+This is a project about the cards game called "War" that approximates the time and rounds it takes to end. It uses a Monte Carlo simulation.
+
